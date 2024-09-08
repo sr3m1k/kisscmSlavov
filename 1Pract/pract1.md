@@ -106,7 +106,7 @@ go run replacer.go /Users/aslav/Desktop/RTU_MIREA_2COURCE/КонфигУправ
 ![9questTerminal.png](photos/9questTerminal.png)
 ![9questFile.png](photos/9questFile.png)
 
-## Задача 9
+## Задача 10
 ```
 cd code
 go run dirReader.go /Users/aslav/Downloads 
@@ -114,3 +114,4 @@ go run dirReader.go /Users/aslav/Downloads
 ### code is presented in the file code/dirReader.go
 
 ![10quest.png](photos/10quest.png)
+
