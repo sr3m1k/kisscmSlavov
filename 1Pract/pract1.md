@@ -72,7 +72,7 @@ chmod +x reg
 chmod +x check_comment.sh
 ./check_comment.sh
 ```
-### code is presented in the file bash/check_comment.sh 
+### code is presented in the file bash/check_comment.sh
 
 ![6quest.png](photos/6quest.png)
 
@@ -114,4 +114,3 @@ go run dirReader.go /Users/aslav/Downloads
 ### code is presented in the file code/dirReader.go
 
 ![10quest.png](photos/10quest.png)
-
