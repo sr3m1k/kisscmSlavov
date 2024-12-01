@@ -1,0 +1,6 @@
+<config>
+    <graphVisualizerPath>mermaid-cli</graphVisualizerPath>
+    <repositoryPath>GitRepository</repositoryPath>
+    <outputFile>Output.md</outputFile>
+    <branchName>Main</branchName>
+</config>
